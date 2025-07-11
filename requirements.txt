@@ -1,0 +1,10 @@
+telethon
+dbt-core
+dbt-sqlite
+ultralytics
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+pydantic
+nest_asyncio
