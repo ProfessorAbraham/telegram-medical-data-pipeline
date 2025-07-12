@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "date": "2024-07-09T12:00:00",
+    "message": "Paracetamol 500mg now available for 60 birr!",
+    "sender": "LobeliaPharma",
+    "media": null,
+    "has_image": false,
+    "channel": "lobelia4cosmetics"
+  },
+  {
+    "id": 2,
+    "date": "2024-07-09T13:15:00",
+    "message": "Vitamin C cream is restocked!",
+    "sender": "LobeliaPharma",
+    "media": "vitamin_c.jpg",
+    "has_image": true,
+    "channel": "lobelia4cosmetics"
+  }
+]
